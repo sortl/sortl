@@ -43,9 +43,8 @@ There are various ways to sort lines.
 - Enumerate: To the text area on your browser.
 - Prepend: To each line of the text area.
 - Sort: Use an online sorter.
-  - Ex1. [Sorter](index.html) very simple sorter on this github pages.
+  - Ex1. [Sorter](https://sortl.github.io/sortl/) - very simple sorter on this github pages.
   - Ex2. [Online Sort, Reformat or Clean Your List](https://www.online-utility.org/text/sort.jsp)
-  - Ex3. [Sort Text - String and Text Sorter - Online - Browserling Web Developer Tools](https://www.browserling.com/tools/text-sort)
 
 ## Excel (Windows)
 - Enumerate: To cells.
